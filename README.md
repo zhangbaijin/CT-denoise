@@ -6,9 +6,9 @@ The result is
 
 ![image](https://github.com/zhangbaijin/CT-denoise/blob/main/2%20(2).jpg)
 
-The original image is 
+The input image is（added gausin noise） 
 
-![image](https://github.com/zhangbaijin/CT-denoise/blob/main/0001_1.png)
+![image](https://github.com/zhangbaijin/CT-denoise/blob/main/1.png)
 # Dataset
 Dataset：https://pan.baidu.com/s/1UA843ZUphDGidSuwXMebfQ access：mao9 
 ##数据集包含了test和train两个文件夹，总共800张左右
